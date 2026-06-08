@@ -285,7 +285,13 @@ ul li{
     margin-right: 2px;
     visibility: hidden;
     cursor: pointer;
-    
+
 }
 
-
+.work-date {
+    font-weight: normal;
+    font-size: 0.8em;
+    color: #888;
+    margin-left: 0.5em;
+    white-space: nowrap;
+}
